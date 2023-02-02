@@ -1,0 +1,14 @@
+февр. 02, 2023 7:12:42 PM Homework.JAVA_HW11_OOP.Model.Logger.LoggerMP setLogger
+SEVERE: Пользователь ввёл число при выборе математической операции : 2
+февр. 02, 2023 7:12:43 PM Homework.JAVA_HW11_OOP.Model.Logger.LoggerMP setLogger
+SEVERE: Выбрана операция вычитания
+февр. 02, 2023 7:12:45 PM Homework.JAVA_HW11_OOP.Model.Logger.LoggerMP setLogger
+SEVERE: Пользователь ввёл 1-число: 5
+февр. 02, 2023 7:12:45 PM Homework.JAVA_HW11_OOP.Model.Logger.LoggerMP setLogger
+SEVERE: Пользователь ввёл 2-число: 6
+февр. 02, 2023 7:12:45 PM Homework.JAVA_HW11_OOP.Model.Logger.LoggerMP setLogger
+SEVERE: Ответ -1
+февр. 02, 2023 7:13:07 PM Homework.JAVA_HW11_OOP.Model.Logger.LoggerMP setLogger
+SEVERE: Пользователь ввёл число при выборе математической операции : 0
+февр. 02, 2023 7:13:07 PM Homework.JAVA_HW11_OOP.Model.Logger.LoggerMP setLogger
+SEVERE: Выход из программы
